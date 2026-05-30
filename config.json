@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileecrypt",
+        "uuid": 11666044,
+        "checksum": "rtubqk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
